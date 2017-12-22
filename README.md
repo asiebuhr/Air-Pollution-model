@@ -37,3 +37,5 @@ I created a regression of the model at Vercoe, giving me the parameters:
 Based on all observed values of *N*, *S*, * *C<sub>p</sub>*, and *u*, I predicted CO concentrations on the values of *X* that I calculated. Calculations are available in the data folder for Vercoe under co_data.
 
 I fit these parameters to calculated values of X at the site in Te Rapa, also under the data folder.
+
+![Alt text](https://raw.githubusercontent.com/asiebuhr/Air-Pollution-model/master/graphs/te_rapa_model.jpeg)
