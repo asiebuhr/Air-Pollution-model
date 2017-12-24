@@ -38,4 +38,4 @@ Based on all observed values of *N*, *S*, * *C<sub>p</sub>*, and *u*, I predicte
 
 I fit these parameters to calculated values of X at the site in Te Rapa, also under the data folder.
 
-![Alt text](https://raw.githubusercontent.com/asiebuhr/Air-Pollution-model/master/graphs/te_rapa_model.jpeg)
+![Alt text](https://raw.githubusercontent.com/asiebuhr/Air-Pollution-model/master/graphs/CO.pred.jpeg)
